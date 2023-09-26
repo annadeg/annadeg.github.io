@@ -2,10 +2,24 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+dropdown: true
+children: 
+    - title: overview
+      permalink: /projects/
+    - title: divider
+    - title: RUBIES
+      permalink: /projects/RUBIES/
+    - title: divider
+    - title: NIRSpec
+      permalink: /projects/NIRSpec/
+    - title: divider
+    - title: LEGA-C
+      permalink: /projects/LEGAC/ 
+    - title: divider
+    - title: Simulations
+      permalink: /projects/sims/           
 horizontal: false
 ---
 

@@ -139,7 +139,7 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 40%;
 
     .address {
       p {
@@ -305,7 +305,7 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 3rem;
 
     a {
       i::before {
@@ -360,12 +360,12 @@ blockquote {
 // Footer
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
-  font-size: 0.75rem;
+  font-size: 0.6rem;
 
   .container {
     color: var(--global-footer-text-color);
-    padding-top: 9px;
-    padding-bottom: 8px;
+    padding-top: 5px;
+    padding-bottom: 5px;
   }
 
   a {
@@ -380,9 +380,9 @@ footer.fixed-bottom {
 
 footer.sticky-bottom {
   border-top: 1px solid var(--global-divider-color);
-  padding-top: 40px;
-  padding-bottom: 40px;
-  font-size: 0.9rem;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 0.7rem;
 }
 
 // CV
@@ -561,7 +561,7 @@ footer.sticky-bottom {
 
   .grid-sizer,
   .grid-item {
-    width: 250px;
+    width: 185px;
     margin-bottom: 10px;
   }
 
@@ -616,7 +616,7 @@ footer.sticky-bottom {
 
       .preview {
         width: 100%;
-        min-width: 80px;
+        min-width: 0px;
         max-width: 200px;
       }
 

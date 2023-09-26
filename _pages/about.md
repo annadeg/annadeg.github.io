@@ -2,25 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: DSCF7455_edit.jpg
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Max Planck Institute for Astronomy</p>
+    <p>Koenigstuhl 17</p>
+    <p>Heidelberg, 69117</p>
+    <p>Germany</p>
+    <p>degraaff@mpia.de</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an independent research fellow at the Max Planck Institute for Astronomy in Heidelberg. My interests are in the field of galaxy evolution, in particular the structural evolution of galaxies across cosmic time and galaxy mass assembly histories. I use large samples of galaxies in my research, from both extragalactic surveys and cosmological simulations.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Large spectroscopic surveys are central to my research, having based my PhD thesis around the LEGA-C Survey. Currently my main focus is on surveys using the JWST NIRSpec instrument. As member of the JWST/NIRSpec GTO team and PI of JWST Cycle 2 Program RUBIES, I am collecting over 10,000 spectra of distant galaxies and black holes together with my collaborators, to shed light on the physics in the early Universe.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+
