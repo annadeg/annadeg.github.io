@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-img: assets/img/rubies_logo_gold.png
+img: assets/img/rubies_logo_gold_cropped.png
 importance: 1
 category: work
 giscus_comments: false
@@ -9,7 +9,7 @@ giscus_comments: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/rubies_logo_gold.jpg" title="RUBIES logo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/rubies_logo_gold_cropped.png" title="RUBIES logo" class="img-fluid" %}
     </div>
 </div>
 
@@ -19,10 +19,10 @@ In total, RUBIES targets approximately 300 very red sources (F150W-F444W>2), pro
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/uds_footprint.jpg" title="UDS footprint" class="img-fluid" %}
+        {% include figure.liquid loading="eager" path="assets/img/uds_footprint.png" title="UDS footprint" class="img-fluid" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/egs_footprint.jpg" title="EGS footprint" class="img-fluid" %}
+        {% include figure.liquid loading="eager" path="assets/img/egs_footprint.png" title="EGS footprint" class="img-fluid" %}
     </div>
 </div>
 <div class="caption">
