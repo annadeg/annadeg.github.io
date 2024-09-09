@@ -8,7 +8,7 @@ giscus_comments: false
 ---
 
 
-The Red Unknowns: Bright Infrared Extragalactic Survey (RUBIES) is a Cycle 2 program with JWST/NIRSpec targeting sources in the UDS and EGS fields. RUBIES is designed to study bright and very red sources discovered from public JWST/NIRCam imaging (primarily PRIMER and CEERS). 
+The *Red Unknowns: Bright Infrared Extragalactic Survey*, RUBIES, is a Cycle 2 program (PIs: A. de Graaff & G. Brammer) with JWST/NIRSpec targeting sources in the UDS and EGS fields. RUBIES is designed to study bright and very red sources discovered from public JWST/NIRCam imaging (primarily PRIMER and CEERS). 
 
 
 <div class="row justify-content-sm-center">
@@ -35,5 +35,5 @@ In total, RUBIES observes approximately 300 very red sources (F150W-F444W>2), pr
     </div>
 </div>
 <div class="caption">
-    RUBIES footprint of 18 NIRSpec MSA pointings.
+    RUBIES (GO-4233) footprint of 18 NIRSpec MSA pointings.
 </div>
