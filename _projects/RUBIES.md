@@ -24,7 +24,8 @@ The *Red Unknowns: Bright Infrared Extragalactic Survey*, RUBIES, is a Cycle 2 p
 </div>
 
 
-In total, RUBIES observes approximately 300 very red sources (F150W-F444W>2), providing the first statistical sample of these rare objects in the early Universe. With a novel observing strategy, we are able to place these sources in the context of the broader high-redshift galaxy population. We observe roughly 4500 sources in total, sampling the full parent population in a well-quantified way. RUBIES is among the largest spectroscopic programs performed with JWST so far, both in number of targets and spectroscopic survey area (150 arcmin<sup>2</sup>).
+In total, RUBIES observes approximately 300 very red sources (F150W-F444W>2), providing the first statistical sample of these rare objects in the early Universe. With a novel observing strategy, we are able to place these sources in the context of the broader high-redshift galaxy population. We observe roughly 4500 sources in total, sampling the full parent population in a well-quantified way. RUBIES is among the largest spectroscopic programs performed with JWST so far, both in number of targets and spectroscopic survey area (150 arcmin<sup>2</sup>). A complete description of RUBIES can be found in our [survey overview paper](https://arxiv.org/abs/2409.05948).
+
 
 <div class="row">
     <div class="col-lg mt-3 mt-md-0">
