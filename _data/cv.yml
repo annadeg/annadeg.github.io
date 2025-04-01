@@ -3,7 +3,7 @@
   contents:
     - title: Postdoctoral research fellow
       institution: Max Planck Institute for Astronomy, Heidelberg, Germany
-      year: 2022 - 2026
+      year: 2022 - 
 #      description:
 #        - Description 1.
 #        - Description 2.
@@ -34,12 +34,18 @@
 - title: Honours and Awards
   type: time_table
   contents:
+    - year: 2025
+      items: 
+        - NASA Hubble Fellowship
+    - year: 2025
+      items: 
+        - Clay Prize Fellowship
     - year: 2022
       items: 
-        - MPIA prize fellowship
+        - MPIA Prize Fellowship
     - year: 2018
       items: 
-        - de Sitter PhD fellowship (Leiden University)
+        - de Sitter PhD Fellowship (Leiden University)
         - Margaret Ann Stewart Memorial Prize in Physics (University of Edinburgh)
         - Emerson Prize in Astrophysics (University of Edinburgh)
 
