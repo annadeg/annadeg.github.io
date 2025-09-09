@@ -21,7 +21,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an independent research fellow at the Max Planck Institute for Astronomy in Heidelberg. My interests are in the field of galaxy evolution, in particular the structural evolution of galaxies across cosmic time, their mass assembly histories, and the growth of their central black holes. I work with large samples of galaxies from both extragalactic surveys and cosmological simulations.
+I am an independent research fellow at the Max Planck Institute for Astronomy in Heidelberg. My interests are in the field of galaxy evolution, in particular the structural evolution of galaxies across cosmic time, their mass assembly histories, and the growth of their central black holes. 
 
 Spectroscopic surveys are key to my research. During my PhD I worked with the LEGA-C team on dynamical scaling relations, and subsequently performed a comparison with the EAGLE simulations. Currently my main focus is on surveys using the JWST NIRSpec instrument. As member of the NIRSpec GTO team and PI of JWST Cycle 2 Program RUBIES, I have collected over 10,000 spectra of distant galaxies and black holes together with my collaborators, to shed light on the formation of galaxies in the early Universe.
 
