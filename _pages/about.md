@@ -9,10 +9,10 @@ profile:
   image: DSCF7455_edit.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Center for Astrophysics &#124; Harvard &amp; Smithsonian</p>
+    <p>Center for Astrophysics</p>
+    <p>Harvard &amp; Smithsonian</p>
     <p>60 Garden St</p>
     <p>Cambridge, MA 02138</p>
-    <p>USA</p>
     <p>anna.de_graaff@cfa.harvard.edu</p>
 
 news: false  # includes a list of news items
