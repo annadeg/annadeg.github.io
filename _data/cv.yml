@@ -1,15 +1,20 @@
 - title: Current position
   type: time_table
   contents:
-    - title: Postdoctoral research fellow
-      institution: Max Planck Institute for Astronomy, Heidelberg, Germany
-      year: 2022 - 
+    - title: Clay Fellow
+      institution: Center for Astrophysics &#124; Harvard &#38; Smithsonian
+      year: 2025 - 
 #      description:
 #        - Description 1.
 #        - Description 2.
 
 
-
+- title: Previous 
+  type: time_table
+  contents:
+    - title: MPIA Prize Fellow
+      institution: Max Planck Institute for Astronomy, Heidelberg
+      year: 2022 - 2025 
 
 
 - title: Education
